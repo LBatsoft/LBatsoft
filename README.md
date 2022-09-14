@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on SAAS compa
+- 🌱 I’m currently learning Android Security
+- 🤔 I’m looking for help with ？？？
+- 💬 Ask me about ...
+- 📫 How to reach me: mjv1cp@gmail.com
+- ⚡ Fun fact: Ready to get married
+
+![LBatsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=LBatsoft&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBatsoft&layout=compact&theme=tokyonight)
+
